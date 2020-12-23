@@ -2,7 +2,7 @@
 Automatizador de pontos para o site MdComune. 
 
 Variaveis globais:
-* MD_LOGIN = Seu login MdComune (geralmente é o e-mail)
+* MD_LOGIN = Seu login MdComune (geralmente é o e-mail corporativo)
 * MD_PASSWORD = Sua senha MdComune
 * EMAIL_SENDER = E-mail google que será responsável pelo o envio dos avisos de ponto.
 * EMAIL_PASSWORD = Senha do e-mail google que enviará e-mails.
