@@ -21,7 +21,7 @@ def job():
     except:
         email.send_email(badMessage, EMAIL_RECEIVER)
 
-schedule.every().day.at("08:49").do(job)
+schedule.every().day.at("08:00").do(job)
 schedule.every().day.at("17:00").do(job)
 
 while True:
