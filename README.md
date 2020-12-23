@@ -12,4 +12,6 @@ Variaveis globais:
 
 ![Image](https://devanswers.co/wp-content/uploads/2017/02/gmail-allow-less-secure-apps.png)
 
-https://myaccount.google.com/lesssecureapps
+URL: https://myaccount.google.com/lesssecureapps
+
+
