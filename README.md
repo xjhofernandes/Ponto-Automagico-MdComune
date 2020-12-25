@@ -1,7 +1,7 @@
 # Ponto-Automagico-MdComune
 Automatizador de pontos para o site MdComune. 
 
-Variaveis globais:
+Variaveis de sistema:
 * MD_LOGIN = Seu login MdComune (geralmente é o e-mail corporativo)
 * MD_PASSWORD = Sua senha MdComune
 * EMAIL_SENDER = E-mail google que será responsável pelo o envio dos avisos de ponto.
@@ -9,7 +9,7 @@ Variaveis globais:
 * EMAIL_RECEIVER = E-mail que receberá os avisos de pontos. 
 * WEBDRIVER_PATH = Caminho que ficará o seu binário do webdriver.
 
-É necessário ativar a configuração aplicativos menos seguros do Google para o envio de e-mails. 
+É necessário ativar a configuração aplicativos menos seguros do Google para o envio de e-mails de avisos. 
 
 ![Image](https://devanswers.co/wp-content/uploads/2017/02/gmail-allow-less-secure-apps.png)
 
