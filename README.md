@@ -1,19 +1,14 @@
 # Ponto-Automagico-MdComune
 Automatizador de pontos para o site MdComune. 
 
-Variaveis de sistema:
+### Será necessário habilitar o checkbox "Não voltar a mostrar esta tela ao abrir. Entrar diretamente para o módulo pessoas" no dashboard do MdComune
+![image](https://i.ibb.co/wJw0Bkt/download.png)
+
+link: https://www.mdcomune.com.br/Madis/Dashboard
+
+### Variaveis de sistema:
 * MD_LOGIN = Seu login MdComune (geralmente é o e-mail corporativo)
 * MD_PASSWORD = Sua senha MdComune
-* EMAIL_SENDER = E-mail google que será responsável pelo o envio dos avisos de ponto.
-* EMAIL_PASSWORD = Senha do e-mail google que enviará e-mails.
-* EMAIL_RECEIVER = E-mail que receberá os avisos de pontos. 
-* WEBDRIVER_PATH = Caminho que ficará o seu binário do webdriver.
-
-É necessário ativar a configuração aplicativos menos seguros do Google para o envio de e-mails de avisos. 
-
-![Image](https://devanswers.co/wp-content/uploads/2017/02/gmail-allow-less-secure-apps.png)
-
-URL: https://myaccount.google.com/lesssecureapps
 
 
 Instalar modulos:
